@@ -18,7 +18,7 @@ npm install
 npm run dev
 ```
 
-#Startup
+## Startup
 in the paylink folder ->
 ```bash
 npm start
