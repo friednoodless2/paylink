@@ -1,6 +1,5 @@
 # Paylink 
-####(under development)
-
+(uncomplete)
 A P2P Payment WebApp, using links instead of QR codes to help assist payments over chat. 
 -part of Walden International incubation project. 
 
